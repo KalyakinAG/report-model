@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="67e1b403-5ee3-4ccf-ab73-36142aa50b7f">
+  <name>МодельОтчета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модель отчета компоновки данных</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension">
+    <defaultRunMode>Checked</defaultRunMode>
+    <interfaceCompatibilityMode>Checked</interfaceCompatibilityMode>
+    <compatibilityMode>Checked</compatibilityMode>
+  </extension>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="e142ae47-ca8e-4d9c-b82e-94901128fd0c"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="53a9c66a-75e3-4b1c-bec8-14a8dbb9a405"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="1f63c62b-a341-4628-a416-19bc65885188"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="5227e525-cb70-48c4-8c1e-f2b601914508"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3aeef44b-ba79-4c14-ba0f-f41772c1dbcc"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="592cd793-cc18-4c3c-bcd9-cabf747388f6"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="66e3cdf7-b978-44cd-b1cf-8d145492d18d"/>
+  <namePrefix>ка_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.22</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <scriptVariant>Russian</scriptVariant>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="bb92bc42-2588-4302-99ea-47d88b95d6a5">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.КАПодсистемы</subsystems>
+  <commonModules>CommonModule.Общий</commonModules>
+  <dataProcessors>DataProcessor.МодельСхемыКомпоновкиДанных</dataProcessors>
+  <dataProcessors>DataProcessor.МодельНастройкиКомпоновкиДанных</dataProcessors>
+  <dataProcessors>DataProcessor.МодельМакетаКомпоновкиДанных</dataProcessors>
+  <dataProcessors>DataProcessor.МодельМакетаОбластиКомпоновкиДанных</dataProcessors>
+</mdclass:Configuration>
