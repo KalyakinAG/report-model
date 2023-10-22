@@ -23,6 +23,7 @@
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
+  <version>1.0.1</version>
   <compatibilityMode>8.3.22</compatibilityMode>
   <languages uuid="bb92bc42-2588-4302-99ea-47d88b95d6a5">
     <name>Русский</name>
@@ -34,8 +35,8 @@
   </languages>
   <subsystems>Subsystem.КАПодсистемы</subsystems>
   <commonModules>CommonModule.Общий</commonModules>
-  <dataProcessors>DataProcessor.МодельСхемыКомпоновкиДанных</dataProcessors>
-  <dataProcessors>DataProcessor.МодельНастройкиКомпоновкиДанных</dataProcessors>
   <dataProcessors>DataProcessor.МодельМакетаКомпоновкиДанных</dataProcessors>
   <dataProcessors>DataProcessor.МодельМакетаОбластиКомпоновкиДанных</dataProcessors>
+  <dataProcessors>DataProcessor.МодельНастройкиКомпоновкиДанных</dataProcessors>
+  <dataProcessors>DataProcessor.МодельСхемыКомпоновкиДанных</dataProcessors>
 </mdclass:Configuration>

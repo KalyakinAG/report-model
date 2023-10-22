@@ -8,9 +8,6 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>CommonModule.Общий</content>
-  <content>CommonModule.ОбщийКлиентСервер</content>
-  <content>CommonModule.ОбщийКлиент</content>
-  <content>CommonPicture.ЗаполнитьФорму</content>
-  <content>CommonPicture.ГраницаСправа</content>
   <subsystems>МодельОтчета</subsystems>
+  <subsystems>ОбщегоНазначенияКА</subsystems>
 </mdclass:Subsystem>
