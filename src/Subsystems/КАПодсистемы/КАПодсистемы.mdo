@@ -7,7 +7,5 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <content>CommonModule.Общий</content>
-  <subsystems>МодельОтчета</subsystems>
-  <subsystems>ОбщегоНазначенияКА</subsystems>
+  <subsystems>КАМодели</subsystems>
 </mdclass:Subsystem>
