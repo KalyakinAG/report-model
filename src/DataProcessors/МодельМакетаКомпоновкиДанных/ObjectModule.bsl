@@ -1,3 +1,8 @@
+//  Подсистема "Модель отчета"
+//	Автор: Калякин Андрей Г.
+//  https://github.com/KalyakinAG/kassl
+//  https://github.com/KalyakinAG/report-model
+
 //@skip-check object-module-export-variable
 //@skip-check module-accessibility-at-client
 

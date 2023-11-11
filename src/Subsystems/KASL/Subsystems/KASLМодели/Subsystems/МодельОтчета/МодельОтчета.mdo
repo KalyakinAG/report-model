@@ -11,6 +11,5 @@
   <content>DataProcessor.МодельНастройкиКомпоновкиДанных</content>
   <content>DataProcessor.МодельМакетаКомпоновкиДанных</content>
   <content>DataProcessor.МодельМакетаОбластиКомпоновкиДанных</content>
-  <content>DataProcessor.КонструкторМоделиОтчета</content>
-  <parentSubsystem>Subsystem.КАПодсистемы.Subsystem.КАМодели</parentSubsystem>
+  <parentSubsystem>Subsystem.KASL.Subsystem.KASLМодели</parentSubsystem>
 </mdclass:Subsystem>

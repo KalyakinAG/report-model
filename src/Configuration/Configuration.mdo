@@ -17,12 +17,17 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3aeef44b-ba79-4c14-ba0f-f41772c1dbcc"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="592cd793-cc18-4c3c-bcd9-cabf747388f6"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="66e3cdf7-b978-44cd-b1cf-8d145492d18d"/>
-  <namePrefix>КА_</namePrefix>
+  <namePrefix>KASL</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>Калякин Андрей</vendor>
   <version>1.0.1</version>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://infostart.ru/profile/16301/</value>
+  </vendorInformationAddress>
   <languages uuid="bb92bc42-2588-4302-99ea-47d88b95d6a5">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
@@ -31,7 +36,7 @@
     </extension>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.КАПодсистемы</subsystems>
+  <subsystems>Subsystem.KASL</subsystems>
   <dataProcessors>DataProcessor.МодельМакетаКомпоновкиДанных</dataProcessors>
   <dataProcessors>DataProcessor.МодельМакетаОбластиКомпоновкиДанных</dataProcessors>
   <dataProcessors>DataProcessor.МодельНастройкиКомпоновкиДанных</dataProcessors>
