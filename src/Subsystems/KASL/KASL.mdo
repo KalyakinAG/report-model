@@ -7,5 +7,5 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
-  <subsystems>KASLМодели</subsystems>
+  <subsystems>Модели</subsystems>
 </mdclass:Subsystem>
