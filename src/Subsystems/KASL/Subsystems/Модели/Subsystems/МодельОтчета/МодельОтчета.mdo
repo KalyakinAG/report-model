@@ -6,12 +6,9 @@
     <value>Модель отчета</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
   <content>DataProcessor.МодельСхемыКомпоновкиДанных</content>
   <content>DataProcessor.МодельНастройкиКомпоновкиДанных</content>
   <content>DataProcessor.МодельМакетаКомпоновкиДанных</content>
   <content>DataProcessor.МодельМакетаОбластиКомпоновкиДанных</content>
-  <content>DataProcessor.КонструкторМоделиОтчета</content>
-  <subsystems>КонструкторМоделиОтчета</subsystems>
   <parentSubsystem>Subsystem.KASL.Subsystem.Модели</parentSubsystem>
 </mdclass:Subsystem>
