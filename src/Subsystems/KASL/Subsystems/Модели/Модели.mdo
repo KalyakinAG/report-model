@@ -6,7 +6,6 @@
     <value>Модели</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
   <subsystems>МодельОтчета</subsystems>
   <parentSubsystem>Subsystem.KASL</parentSubsystem>
 </mdclass:Subsystem>

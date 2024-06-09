@@ -18,12 +18,12 @@
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="592cd793-cc18-4c3c-bcd9-cabf747388f6"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="66e3cdf7-b978-44cd-b1cf-8d145492d18d"/>
   <namePrefix>KASL</namePrefix>
-  <configurationExtensionCompatibilityMode>8.3.23</configurationExtensionCompatibilityMode>
+  <configurationExtensionCompatibilityMode>8.3.24</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Калякин Андрей</vendor>
-  <version>1.0.1</version>
+  <version>1.0.3</version>
   <vendorInformationAddress>
     <key>ru</key>
     <value>https://infostart.ru/profile/16301/</value>
